@@ -1,0 +1,24 @@
+# Environnement virtuel
+venv/
+env/
+.venv/
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de test et sorties générées
+*_veiled.jpg
+*_veiled.png
+test.jpg
+test.png
+temp/
+
+# Editeurs
+.vscode/
+.idea/
