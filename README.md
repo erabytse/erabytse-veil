@@ -1,4 +1,4 @@
-# 🧵 erabytse-veil  
+## 🧵 erabytse-veil  
 *An ethical veil for image metadata — not deletion, but intentional protection.*
 
 > "Not all metadata should be hidden. But what is sensitive deserves a veil."
@@ -16,11 +16,15 @@
 
 ## 🚀 Quick Start
 
-pip install -e .
-erabytse-veil --input photo.jpg --output photo_veiled.jpg
+### Install from PyPI
+pip install erabytse-veil
+usage: erabytse-veil --input photo.jpg --output photo_veiled.jpg
+  * The output image retains artistic metadata but removes privacy-sensitive traces.
+  Your original file is never modified. 
 
 📜 License
 MIT — used with intention.
 
 
 Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
