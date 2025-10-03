@@ -14,6 +14,16 @@
 - Generates a clean output file — original untouched  
 - **100% offline, no cloud, no tracking**
 
+Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
+
+## 💙 Support
+If you use and value this tool, consider supporting its development:  
+[![Sponsor](https://img.shields.io/badge/sponsor-erabytse-181717?logo=github)](https://github.com/sponsors/takouzlo)
+
+📜 License
+MIT — but used with intention.
+
+
 ## 🚀 Quick Start
 
 ### Install from PyPI
@@ -22,9 +32,6 @@ usage: erabytse-veil --input photo.jpg --output photo_veiled.jpg
   * The output image retains artistic metadata but removes privacy-sensitive traces.
   Your original file is never modified. 
 
-📜 License
-MIT — used with intention.
 
 
-Part of **[erabytse](https://erabytse.github.io)** — a quiet rebellion against digital waste.
 
